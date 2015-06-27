@@ -7,4 +7,4 @@ To preview the index.html, do the following:
 
 http://htmlpreview.github.io/?https://github.com/kadirisani/MathBasics/blob/master/index.html
 
-Testing
+Testing on 6/27/15
